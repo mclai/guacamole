@@ -4,7 +4,7 @@
 - onion
 - salt & pepper
 
-Put into a bowl and mix. 
+Put into a bowl and mix.
 
 example repository asdfafka;nvkacnacl; **kaka** ;lksdjfiencaksdjf
 
@@ -20,3 +20,11 @@ for file in filenames:
   print(file)
 ```
 <!-- HTML comment -->
+
+
+git clone
+git add
+git status
+git commit -m "added blah "
+git push
+git log
