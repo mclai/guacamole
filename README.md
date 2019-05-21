@@ -3,6 +3,7 @@
 - avocado
 - onion
 - salt & pepper
+- hot sauce
 
 Put into a bowl and mix.
 
