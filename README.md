@@ -24,8 +24,9 @@ for file in filenames:
 
 
 git clone
-git add
+git add # add to stage
 git status
 git commit -m "added blah "
 git push
 git log
+git checkout 85d1fbf6aa9826e24124aa570b3d20d6f19c4142 hummus.md # restore this file only
