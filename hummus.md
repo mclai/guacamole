@@ -3,3 +3,6 @@
 chickpeas
 tahini
 olive
+beef
+chicken
+fish
