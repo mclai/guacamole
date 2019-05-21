@@ -8,7 +8,7 @@ example repository asdfafka;nvkacnacl; **kaka** ;lksdjfiencaksdjf
 
 `code can be highlighted with backticks`
 
-```
+```Python
 for file in filenames:
   print(file)
 ```
