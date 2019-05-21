@@ -1,12 +1,18 @@
 # guacamole
 
+## Ingredients
 - avocado
 - onion
 - salt & pepper
 - hot sauce
 
-Put into a bowl and mix.
+## Instructions
 
+- chop stuff up
+- stuff
+- Put into a bowl and mix.
+
+## #############################################################
 example repository asdfafka;nvkacnacl; **kaka** ;lksdjfiencaksdjf
 
 - you can add bullets
