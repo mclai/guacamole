@@ -42,3 +42,4 @@ for file in filenames:
 - git branch
 - git branch newfeature
 - git checkout newfeature
+- git pull 
